@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cn7ylv0sdbe23"
-path="res://.godot/imported/characters_4.png-1a2252b2f91876fe92259c9ec7f1d427.ctex"
+uid="uid://0y7xcbh2d05d"
+path="res://.godot/imported/Set_B_Exteriors.png-187d08ae8071f717cdf8b5c3f30087db.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/sprites/sheets/characters/4_directional/characters_4.png"
-dest_files=["res://.godot/imported/characters_4.png-1a2252b2f91876fe92259c9ec7f1d427.ctex"]
+source_file="res://assets/sprites/sheets/dwyegrove/Set_B_Exteriors.png"
+dest_files=["res://.godot/imported/Set_B_Exteriors.png-187d08ae8071f717cdf8b5c3f30087db.ctex"]
 
 [params]
 

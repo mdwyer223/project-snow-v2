@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://by7ftdx11ljtd"
-path="res://.godot/imported/characters_2.png-f0a83c2bc9ed83d06de7a75afe2f2cdb.ctex"
+uid="uid://doa8pwmv7y705"
+path="res://.godot/imported/Set_A_Darkwoods2.png-8c1fc9e2f3a93bb0b2328b858833e66c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/sprites/sheets/characters/4_directional/characters_2.png"
-dest_files=["res://.godot/imported/characters_2.png-f0a83c2bc9ed83d06de7a75afe2f2cdb.ctex"]
+source_file="res://assets/sprites/sheets/dwyegrove/Set_A_Darkwoods2.png"
+dest_files=["res://.godot/imported/Set_A_Darkwoods2.png-8c1fc9e2f3a93bb0b2328b858833e66c.ctex"]
 
 [params]
 

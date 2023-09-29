@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cmcc5spfsakbp"
-path="res://.godot/imported/outside.png-f8427e4f2a3e07350785087dcd38d70a.ctex"
+uid="uid://dnfotcekwreg6"
+path="res://.godot/imported/Set_F_Rooftops.png-3c843d91eb4ae1f18a16421fb4ca1ee2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/sprites/sheets/dwyegrove/outside.png"
-dest_files=["res://.godot/imported/outside.png-f8427e4f2a3e07350785087dcd38d70a.ctex"]
+source_file="res://assets/sprites/sheets/dwyegrove/Set_F_Rooftops.png"
+dest_files=["res://.godot/imported/Set_F_Rooftops.png-3c843d91eb4ae1f18a16421fb4ca1ee2.ctex"]
 
 [params]
 
