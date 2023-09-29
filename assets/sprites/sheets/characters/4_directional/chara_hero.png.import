@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://c5x1hkbfivtad"
-path="res://.godot/imported/house.png-bccd0788b56938a23eb8bf67e02aa44b.ctex"
+uid="uid://d04cc65phpojd"
+path="res://.godot/imported/chara_hero.png-26224efa83eee067111b5391d043ed00.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/sprites/sheets/dwyegrove/house.png"
-dest_files=["res://.godot/imported/house.png-bccd0788b56938a23eb8bf67e02aa44b.ctex"]
+source_file="res://assets/sprites/sheets/characters/4_directional/chara_hero.png"
+dest_files=["res://.godot/imported/chara_hero.png-26224efa83eee067111b5391d043ed00.ctex"]
 
 [params]
 

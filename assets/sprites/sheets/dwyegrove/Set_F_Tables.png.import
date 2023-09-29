@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bj0gd260qa5gf"
-path="res://.godot/imported/inside.png-4d109e69630a7b843d548c3b35516114.ctex"
+uid="uid://dp83c73xnfhop"
+path="res://.godot/imported/Set_F_Tables.png-d19ad87fcc2b045fe141188b06743899.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/sprites/sheets/dwyegrove/inside.png"
-dest_files=["res://.godot/imported/inside.png-4d109e69630a7b843d548c3b35516114.ctex"]
+source_file="res://assets/sprites/sheets/dwyegrove/Set_F_Tables.png"
+dest_files=["res://.godot/imported/Set_F_Tables.png-d19ad87fcc2b045fe141188b06743899.ctex"]
 
 [params]
 
