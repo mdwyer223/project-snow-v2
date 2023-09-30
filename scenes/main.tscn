@@ -19,6 +19,7 @@ metadata/_edit_use_anchors_ = true
 
 [node name="World" type="Node2D" parent="."]
 process_mode = 1
+y_sort_enabled = true
 script = ExtResource("2_g7wf5")
 
 [node name="MainCamera" type="Camera2D" parent="World"]
