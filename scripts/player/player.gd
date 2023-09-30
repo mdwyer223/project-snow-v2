@@ -28,13 +28,12 @@ func _process(_delta):
 	else: 
 		moving = false
 
-	self.z_index = int(self.position.y)
-	
 	_handle_direction(velocity_from_input)
 	_handle_animation()
 	
 func _physics_process(delta):
 	move_and_collide(velocity_from_input * delta)
+	move_and_slide()
 	
 func _handle_input():
 	var input_velocity = Vector2.ZERO

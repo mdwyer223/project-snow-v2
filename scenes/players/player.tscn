@@ -193,6 +193,8 @@ animations = [{
 size = Vector2(660000, 521555)
 
 [node name="player" type="CharacterBody2D"]
+z_as_relative = false
+y_sort_enabled = true
 scale = Vector2(5, 5.02897)
 disable_mode = 1
 script = ExtResource("1_g50xy")

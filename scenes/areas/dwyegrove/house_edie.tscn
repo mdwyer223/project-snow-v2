@@ -4,43 +4,47 @@
 [ext_resource type="Script" path="res://scripts/levels/dwyegrove/house_edie.gd" id="1_qkrvu"]
 
 [node name="house_edie" type="Node2D"]
+y_sort_enabled = true
 script = ExtResource("1_qkrvu")
 
 [node name="PlayerStartPosition" type="Node2D" parent="."]
 position = Vector2(243, 137)
 
 [node name="TileMap" type="TileMap" parent="."]
+show_behind_parent = true
+y_sort_enabled = true
 texture_filter = 1
 scale = Vector2(6, 5.85)
 tile_set = ExtResource("1_mflh7")
 format = 2
 layer_0/name = "ground"
+layer_0/z_index = -2
 layer_0/tile_data = PackedInt32Array(131073, 524293, 11, 131074, 589829, 11, 131075, 589829, 11, 131076, 589829, 11, 196612, 589829, 11, 196611, 589829, 11, 196610, 589829, 11, 196609, 524293, 11, 262145, 524293, 11, 262146, 589829, 11, 262147, 589829, 11, 262148, 589829, 11, 262149, 2, 7, 196613, 589829, 11, 131077, 589829, 11, 65542, 589829, 11, 131078, 589829, 11, 196614, 589829, 11, 262150, 65538, 7, 327681, 524293, 11, 327682, 589829, 11, 327683, 589829, 11, 327684, 589829, 11, 327685, 2, 9, 65537, 524293, 11, 65538, 589829, 11, 65539, 589829, 11, 65540, 589829, 11, 65541, 589829, 11, 65543, 655365, 11, 131079, 655365, 11, 196615, 655365, 11, 262151, 131074, 7, 327687, 131074, 9, 327686, 65538, 9)
 layer_1/name = "walls"
 layer_1/enabled = true
 layer_1/modulate = Color(1, 1, 1, 1)
-layer_1/y_sort_enabled = false
+layer_1/y_sort_enabled = true
 layer_1/y_sort_origin = 0
 layer_1/z_index = 0
 layer_1/tile_data = PackedInt32Array(-131071, 851973, 1, -65535, 851973, 2, 1, 851973, 3, -131070, 851973, 1, -65534, 851973, 2, 2, 851973, 3, -131069, 851973, 1, -65533, 851973, 2, 3, 851973, 3, -131068, 589829, 2, -65532, 589829, 3, 4, 589829, 4, -131067, 851973, 1, -65531, 851973, 2, 5, 851973, 3, -131066, 851973, 1, -65530, 851973, 2, 6, 851973, 3, -131065, 851973, 1, -65529, 851973, 2, 7, 851973, 3, 393217, 851973, 5, 393218, 851973, 5, 393219, 851973, 5, 393220, 851973, 5, 393221, 589829, 0, 327680, 851973, 4, 262144, 851973, 4, 196608, 851973, 4, 131072, 655365, 1, 65536, 851973, 4, 0, 851973, 4, -65536, 851973, 4, -131072, 786437, 6, -131064, 720901, 6, -65528, 786437, 4, 8, 786437, 4, 65544, 786437, 4, 131080, 524293, 1, 196616, 786437, 4, 262152, 786437, 4, 327688, 786437, 4, 393216, 786437, 5, 393224, 720901, 5, 393223, 589829, 0)
 layer_2/name = "house"
 layer_2/enabled = true
 layer_2/modulate = Color(1, 1, 1, 1)
-layer_2/y_sort_enabled = false
+layer_2/y_sort_enabled = true
 layer_2/y_sort_origin = 0
 layer_2/z_index = 0
 layer_2/tile_data = PackedInt32Array(-65530, 917509, 0, 6, 917509, 1, -65534, 917509, 0, 2, 917509, 1, 327686, 524293, 12, 393222, 524293, 13)
 layer_3/name = "furniture"
 layer_3/enabled = true
 layer_3/modulate = Color(1, 1, 1, 1)
-layer_3/y_sort_enabled = false
+layer_3/y_sort_enabled = true
 layer_3/y_sort_origin = 0
 layer_3/z_index = 0
-layer_3/tile_data = PackedInt32Array(65537, 393217, 1, 7, 851969, 4, 65543, 851969, 5, 3, 655361, 4, 65539, 655361, 5, 1, 393217, 0, 393222, 393221, 0)
+layer_3/tile_data = PackedInt32Array(65537, 393217, 1, 7, 851969, 4, 65543, 851969, 5, 3, 655361, 4, 65539, 655361, 5, 1, 393217, 0, 393222, 393221, 0, 131076, 851969, 4, 196612, 851969, 5)
 layer_4/name = "decor"
 layer_4/enabled = true
 layer_4/modulate = Color(1, 1, 1, 1)
-layer_4/y_sort_enabled = false
+layer_4/y_sort_enabled = true
 layer_4/y_sort_origin = 0
 layer_4/z_index = 0
 layer_4/tile_data = PackedInt32Array()
